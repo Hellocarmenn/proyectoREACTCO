@@ -1,0 +1,272 @@
+[
+    {
+      "id": 1,
+      "nombre": "Camiseta básica",
+      "categoria": "Ropa",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor tortor non libero suscipit, sed consequat tortor dictum. Nam vel mauris vitae leo accumsan lobortis. Nulla facilisi.",
+      "imagen": "https://static.bershka.net/4/photos2/2024/V/0/1/p/6164/721/250/cd02a9a0f70466b5e027fe782698e010-6164721250_1_1_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh",
+      "precio": 19.99
+    },
+    {
+      "id": 2,
+      "nombre": "Pantalones vaqueros",
+      "categoria": "Ropa",
+      "descripcion": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin ut mauris lobortis, gravida erat vel, pharetra nunc. Fusce dapibus arcu sed consequat tempus.",
+      "imagen": "https://static.e-stradivarius.net/5/photos4/2024/V/0/1/p/1480/991/771/1480991771_1_1_1.jpg?t=1708012706121&impolicy=stradivarius-itxmediumhigh&imwidth=480&imformat=chrome&imdensity=2.625",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 3,
+      "nombre": "Zapatillas deportivas",
+      "categoria": "Calzado",
+      "descripcion": "Integer sed ipsum in nunc posuere ultricies sed non nisl. Nulla imperdiet ex vel massa fermentum, sed ultricies nisl pharetra. Vivamus eget arcu vel lacus varius consectetur.",
+      "imagen": "https://i.pinimg.com/564x/b0/ff/b8/b0ffb86c6d9b8069a38497aa7da16b54.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 4,
+      "nombre": "Falda plisada",
+      "categoria": "Ropa",
+      "descripcion": "Maecenas sed libero eget mi euismod iaculis. Ut eget eros in odio tincidunt tempor nec at ligula. Nunc id neque at mauris maximus dictum.",
+      "imagen": "https://static.bershka.net/4/photos2/2024/V/0/1/p/3216/602/800/c77178ff4e41afe685eb46a3f3509ed0-3216602800_1_1_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 5,
+      "nombre": "Suéter de lana",
+      "categoria": "Ropa",
+      "descripcion": "Curabitur sed velit a magna feugiat tempor. Nunc vehicula velit eget ligula lobortis, vitae condimentum nisl tempor. Etiam id ex at tortor tristique tempor.",
+      "imagen": "https://static.e-stradivarius.net/5/photos4/2024/I/0/1/p/5015/479/430/5015479430_1_1_1.jpg?t=1704723158917&impolicy=stradivarius-itxmediumhigh&imwidth=358&imformat=chrome&imdensity=2.625",
+     "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 6,
+      "nombre": "Abrigo de invierno",
+      "categoria": "Ropa",
+      "descripcion": "Duis eget metus a ligula consectetur finibus. Mauris ac augue eu elit dignissim gravida. Nam nec tellus ut mi vehicula suscipit.",
+      "imagen": "https://static.e-stradivarius.net/5/photos4/2024/I/0/1/p/5898/885/004/5898885004_1_1_1.jpg?t=1704883083030&impolicy=stradivarius-itxmediumhigh&imwidth=990&imformat=chrome&imdensity=2",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 7,
+      "nombre": "Gorra de béisbol",
+      "categoria": "Accesorios",
+      "descripcion": "Vestibulum nec arcu et velit tincidunt cursus. Phasellus nec libero sit amet risus ullamcorper facilisis. Sed sed odio eget dui accumsan suscipit.",
+      "imagen": "https://static.e-stradivarius.net/5/photos4/2024/I/0/1/p/0713/603/040/0713603040_2_1_1.jpg?t=1708526054698&impolicy=stradivarius-itxmediumhigh&imwidth=990&imformat=chrome&imdensity=2",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 8,
+      "nombre": "Bolso de cuero",
+      "categoria": "Accesorios",
+      "descripcion": "Praesent vel purus eu est convallis interdum. In hac habitasse platea dictumst. Proin vel urna auctor, lobortis eros ac, efficitur purus.",
+      "imagen": "https://static.e-stradivarius.net/5/photos4/2024/V/0/1/p/0493/601/001/0493601001_2_1_1.jpg?t=1706027607415&impolicy=stradivarius-itxmediumhigh&imwidth=990&imformat=chrome&imdensity=2",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 9,
+      "nombre": "Pendientes de plata",
+      "categoria": "Accesorios",
+      "descripcion": "Nam sagittis orci nec sapien faucibus, sit amet luctus justo laoreet. Quisque varius lectus at est aliquet, non scelerisque sapien volutpat. Suspendisse ac neque non erat gravida pharetra.",
+      "imagen": "https://static.e-stradivarius.net/5/photos4/2024/V/0/1/p/0169/605/300/0169605300_2_1_1.jpg?t=1709629911330&impolicy=stradivarius-itxmediumhigh&imwidth=990&imformat=chrome&imdensity=2",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 10,
+      "nombre": "Reloj de pulsera",
+      "categoria": "Accesorios",
+      "descripcion": "Fusce eu mauris nec justo sagittis dictum. Vestibulum ac sem in ex consequat ullamcorper sit amet eu est. Donec ullamcorper nulla sed pharetra interdum.",
+      "imagen": "https://example.com/images/reloj.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 11,
+      "nombre": "Camiseta estampada",
+      "categoria": "Ropa",
+      "descripcion": "Aliquam euismod quam id urna ullamcorper lobortis. Nunc scelerisque velit ut felis gravida, nec pharetra ex efficitur. Sed id nunc et purus efficitur tempor.",
+      "imagen": "https://example.com/images/camiseta2.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 12,
+      "nombre": "Vestido de fiesta",
+      "categoria": "Ropa",
+      "descripcion": "Vivamus quis ligula at velit tempus rhoncus a at velit. Nulla facilisi. Aenean lacinia leo ut feugiat vestibulum. In vehicula nisi nec est tincidunt, at condimentum augue fermentum.",
+      "imagen": "https://example.com/images/vestido.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 13,
+      "nombre": "Botas de montaña",
+      "categoria": "Calzado",
+      "descripcion": "Cras consequat nulla et maximus tincidunt. Morbi in nunc dictum, sollicitudin velit at, lobortis ex. Integer sit amet libero et tellus lobortis molestie.",
+      "imagen": "https://example.com/images/botas.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 14,
+      "nombre": "Bufanda de lana",
+      "categoria": "Accesorios",
+      "descripcion": "Sed convallis ex id ligula luctus posuere. Nulla et odio a purus feugiat rhoncus. Suspendisse potenti. Morbi sed felis et enim tincidunt commodo.",
+      "imagen": "https://example.com/images/bufanda.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 15,
+      "nombre": "Chaqueta impermeable",
+      "categoria": "Ropa",
+      "descripcion": "Ut luctus ligula et efficitur feugiat. Quisque sed nunc tincidunt, mattis purus et, vestibulum ligula. Nullam nec velit vel est vestibulum ultricies.",
+      "imagen": "https://example.com/images/chaqueta.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 16,
+      "nombre": "Gafas de sol",
+      "categoria": "Accesorios",
+      "descripcion": "Integer et sapien et purus lacinia luctus. Aliquam fringilla eros et ipsum pellentesque, sit amet tincidunt libero bibendum. Fusce quis ligula non libero hendrerit consectetur.",
+      "imagen": "https://example.com/images/gafas.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 17,
+      "nombre": "Jersey de punto",
+      "categoria": "Ropa",
+      "descripcion": "Duis at odio at leo dignissim interdum. Vestibulum consectetur erat non nisl malesuada, nec fermentum nisi accumsan. Nam vel augue at velit maximus laoreet.",
+      "imagen": "https://example.com/images/jersey.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 18,
+      "nombre": "Mochila deportiva",
+      "categoria": "Accesorios",
+      "descripcion": "Vivamus a ex non nulla sollicitudin feugiat. Maecenas lacinia purus eu augue hendrerit, sit amet convallis enim venenatis. Sed accumsan magna ac sapien posuere, sed fringilla justo sagittis.",
+      "imagen": "https://example.com/images/mochila.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 19,
+      "nombre": "Pulsera de cuero",
+      "categoria": "Accesorios",
+      "descripcion": "Praesent eu nulla nec libero aliquet fermentum. Etiam at ipsum vitae sapien rutrum tincidunt nec ut libero. Aliquam id libero vitae ex lobortis rhoncus.",
+      "imagen": "https://example.com/images/pulsera.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 20,
+      "nombre": "Shorts deportivos",
+      "categoria": "Ropa",
+      "descripcion": "Proin a felis ultricies, maximus augue et, egestas eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce eleifend fermentum malesuada.",
+      "imagen": "https://example.com/images/shorts.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 21,
+      "nombre": "Sudadera con capucha",
+      "categoria": "Ropa",
+      "descripcion": "Nam nec metus at justo congue eleifend. Maecenas condimentum orci id est vehicula, in hendrerit metus suscipit. Fusce a tortor ut velit congue molestie.",
+      "imagen": "https://example.com/images/sudadera.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 22,
+      "nombre": "Traje de baño",
+      "categoria": "Ropa",
+      "descripcion": "Suspendisse potenti. Nunc vestibulum lorem sit amet quam lacinia, non venenatis risus pharetra. Aliquam vel nisl eu sapien vehicula scelerisque.",
+      "imagen": "https://example.com/images/traje.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 23,
+      "nombre": "Botines de cuero",
+      "categoria": "Calzado",
+      "descripcion": "Donec nec nisi et lectus vestibulum eleifend. Nulla facilisi. Phasellus volutpat mi ac turpis ullamcorper, nec blandit purus ultricies. In dapibus magna eu dolor pretium fringilla.",
+      "imagen": "https://example.com/images/botines.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 24,
+      "nombre": "Cinturón de piel",
+      "categoria": "Accesorios",
+      "descripcion": "Vestibulum et velit sit amet dui aliquet dictum. Curabitur elementum nisi ac leo placerat, id maximus dolor tempor. Aliquam interdum magna eu magna dignissim cursus.",
+      "imagen": "https://example.com/images/cinturon.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 25,
+      "nombre": "Falda corta",
+      "categoria": "Ropa",
+      "descripcion": "Fusce ac augue a nulla consequat congue. Phasellus vitae ipsum a orci feugiat pretium id in magna. Mauris rutrum odio a ultricies fermentum.",
+      "imagen": "https://example.com/images/falda-corta.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 26,
+      "nombre": "Gorra de lana",
+      "categoria": "Accesorios",
+      "descripcion": "Etiam sit amet ligula sed turpis ullamcorper fermentum. Proin sagittis nisi non mi tempus, at tempus tortor mollis. Integer sed ante nec tortor commodo vehicula vel at magna.",
+      "imagen": "https://example.com/images/gorra-lana.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 27,
+      "nombre": "Jersey de lana",
+      "categoria": "Ropa",
+      "descripcion": "Pellentesque ac nisi nec sapien commodo volutpat nec et odio. Sed consectetur sem vel convallis egestas. Duis tincidunt augue sit amet eros bibendum, at condimentum justo efficitur.",
+      "imagen": "https://example.com/images/jersey-lana.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 28,
+      "nombre": "Mochila urbana",
+      "categoria": "Accesorios",
+      "descripcion": "Quisque pretium velit ut magna posuere, vitae vestibulum metus blandit. Nunc et sem at felis feugiat consequat nec et dui. Proin laoreet nisi nec risus malesuada, eget accumsan sem facilisis.",
+      "imagen": "https://example.com/images/mochila-urbana.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 29,
+      "nombre": "Pendientes de oro",
+      "categoria": "Accesorios",
+      "descripcion": "In nec ipsum non libero consequat ultricies a nec felis. Fusce quis risus a nulla finibus tempor. Integer ac metus vel mauris accumsan posuere at non turpis.",
+      "imagen": "https://example.com/images/pendientes-oro.jpg",
+      "precio": 39.99,
+      "stock":10
+    },
+    {
+      "id": 30,
+      "nombre": "Sudadera ligera",
+      "categoria": "Ropa",
+      "descripcion": "Aenean accumsan mi vel mi finibus, non sodales metus malesuada. Phasellus molestie magna ac elit scelerisque, ac hendrerit ligula pharetra. Morbi et ex eu mi tincidunt consectetur.",
+      "imagen": "https://example.com/images/sudadera-ligera.jpg",
+      "precio": 39.99,
+      "stock":10
+    }
+  ]
+  
