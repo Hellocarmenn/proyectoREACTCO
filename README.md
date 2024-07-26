@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-¡Bienvenido al repositorio de **Mi E-commerce de Ropa**! Este proyecto es una aplicación de comercio electrónico desarrollada en React, diseñada para ofrecer una experiencia de compra intuitiva y moderna. La aplicación permite a los usuarios explorar una variedad de productos de ropa, realizar búsquedas, filtrar opciones y gestionar su carrito de compras. Además, incorpora funcionalidades para una experiencia de usuario más dinámica y fluida.
+¡Bienvenido al repositorio de **Mi E-commerce de Ropa**! Este proyecto es una aplicación de comercio electrónico desarrollada en React, diseñada para ofrecer una experiencia de compra intuitiva y moderna. La aplicación permite a los usuarios explorar productos por categoria y realizar una compra.
 
 ## Stack Usado
 
