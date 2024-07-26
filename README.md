@@ -12,9 +12,7 @@ Este proyecto está construido utilizando una variedad de tecnologías modernas 
 - **React Router DOM**: Para el manejo de rutas y navegación en la aplicación.
 - **React Hook Form**: Para la gestión de formularios y validaciones.
 - **Lucide React**: Para íconos y elementos gráficos.
-- **React UUID**: Para generar identificadores únicos en la aplicación.
-- **Jest y React Testing Library**: Para pruebas unitarias y de integración.
-
+- Bootstrap
 ## Uso / Instalación
 
 Para empezar a trabajar con el proyecto, sigue estos pasos:
