@@ -1,13 +1,13 @@
-import { useState } from "react";
 import ItemDetailContainer from "./components/ItemDetailContainer";
 import ItemListContainer from "./components/ItemListContainer";
 import Navbar from "./components/Navbar";
 import Nosotros from "./components/Nosotros";
 import "./main.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import { CartContext, CartProvider } from "./context/CartContext";
+import { CartProvider } from "./context/CartContext";
 import Contacto from "./Contacto";
 import Carrito from "./components/Carrito";
+import Checkout from "./components/Checkout";
 
 function App() {
 
@@ -30,6 +30,7 @@ function App() {
             <Route path="/nosotros" element={<Nosotros />} />
             <Route path="/contacto" element={<Contacto />} />
             <Route path="/carrito" element ={<Carrito/>}/>
+            <Route path="/checkout" element ={<Checkout/>}/>
           </Routes>
         </BrowserRouter>
       </CartProvider> 

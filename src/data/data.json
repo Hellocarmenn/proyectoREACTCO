@@ -5,7 +5,8 @@
       "categoria": "Ropa",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor tortor non libero suscipit, sed consequat tortor dictum. Nam vel mauris vitae leo accumsan lobortis. Nulla facilisi.",
       "imagen": "https://static.bershka.net/4/photos2/2024/V/0/1/p/6164/721/250/cd02a9a0f70466b5e027fe782698e010-6164721250_1_1_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh",
-      "precio": 19.99
+      "precio": 19.99,
+      "stock":10
     },
     {
       "id": 2,
@@ -21,7 +22,7 @@
       "nombre": "Zapatillas deportivas",
       "categoria": "Calzado",
       "descripcion": "Integer sed ipsum in nunc posuere ultricies sed non nisl. Nulla imperdiet ex vel massa fermentum, sed ultricies nisl pharetra. Vivamus eget arcu vel lacus varius consectetur.",
-      "imagen": "https://i.pinimg.com/564x/b0/ff/b8/b0ffb86c6d9b8069a38497aa7da16b54.jpg",
+      "imagen": "https://static.e-stradivarius.net/5/photos4/2024/I/1/1/p/9013/370/203/9013370203_2_1_1.jpg?t=1721029677246&impolicy=stradivarius-itxmediumhigh&imwidth=333&imformat=chrome&imdensity=2",
       "precio": 39.99,
       "stock":10
     },
