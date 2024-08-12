@@ -8,7 +8,7 @@ const ItemListContainer = () => {
 
     const [productos, setProductos] = useState([]);
 
-    const [titulo] = useState("Productos");
+    const [titulo, setTitulo] = useState("Productos");
 
     const categoria = useParams().categoria;
 
@@ -19,14 +19,13 @@ const ItemListContainer = () => {
 
       getDocs(q)
         .then((resp) => {
-
+            setTitulo(categoria);
           setProductos(
             resp.docs.map((doc) => {
               return { ...doc.data(), id: doc.id }
             })
           )
         })
-        
     }, [categoria])
     
     
